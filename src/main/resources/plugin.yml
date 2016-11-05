@@ -1,0 +1,8 @@
+name: PvPGlow
+version: 1.0
+main: co.insou.pvpglow.Main
+
+commands:
+  pvpglow:
+    description: 'PvPGlow base command'
+    aliases: [pvpg, pg, pglow]

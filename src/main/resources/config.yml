@@ -1,0 +1,5 @@
+# duration-seconds: How long (in seconds) the glow should last
+# color-code: The color-code (abcdef1234567890) which will be the tagged player's name / outline
+
+duration-seconds: 5
+color-code: 'e'
